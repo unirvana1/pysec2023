@@ -1,0 +1,11 @@
+#basic
+m=liste = ["abols", "banans", "kirsis"]
+
+x=print(liste)
+
+y=(len(liste))
+
+z="Šeit ir "
+b="Augļi"
+print(z,y,b) #piemērs
+print(type(m)) #tips
