@@ -13,7 +13,7 @@ sudo apt-get update
 ##Python 2.7.16 instalācija 
 
 ```shell
-sudo apt-get install python3.11
+sudo apt-get install python2.7
 
 
 $ ls -1 /usr/bin/python* | grep '.*[2-3]\(.[0-9]\+\)\?$'
