@@ -29,11 +29,11 @@ $ ls -1 /usr/bin/python* | grep '.*[2-3]\(.[0-9]\+\)\?$'
 
 ```shell
 python3.11 -m venv venv3.11
-source venv3.11/bin/activate
+source /home/linux/Darbvirsma/Phtonsclonets/pysec2023/venv2/bin/activate
 deactivate
 
-python2.7 -m venv venv2.7
-source venv2.7/bin/activate
+virtualenv -p /usr/bin/python2.7 venv2
+source /home/linux/Darbvirsma/Phtonsclonets/pysec2023/venv2/bin/activate
 deactivate
 ```
 #3. pip avotu instalācija, pielikumu info sagatavošana 
