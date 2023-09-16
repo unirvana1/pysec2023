@@ -13,6 +13,6 @@ print(z,y,b) #piemērs
 auglis=str(input("Ievadi vēl kādu augli "))
 
 t=liste.append(auglis)
-print(y)
+#print(y)
 print(m)
-print(t)
+#print(t)
