@@ -6,7 +6,7 @@ if (number >= 0):
       print('Skaitlis ir 0')
     
     else:
-        print('Skaitlis ir positīvs')
+        print('Skaitlis ir pozitīvs')
 
 else:
     print('skaitlis ir negatīvs')
