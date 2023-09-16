@@ -14,5 +14,5 @@ auglis=str(input("Ievadi vēl kādu augli "))
 
 t=liste.append(auglis)
 #print(y)
-print(m)
+print(auglis)
 #print(t)
