@@ -1,4 +1,4 @@
-#reizrēķina špikeris
+#reizrēķina špikeris līdz 10
 number = int(input("ievadi skaitli:"))
 
 
