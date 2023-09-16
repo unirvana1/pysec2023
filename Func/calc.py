@@ -51,4 +51,4 @@ while True:
         if next_calculation == "nē":
           break
     else:
-        print("Invalid Input")
+        print("Ievadi skaitli nevis kautko citu")
