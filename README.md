@@ -33,7 +33,7 @@ source /home/linux/Darbvirsma/Phtonsclonets/pysec2023/venv2/bin/activate
 deactivate
 
 virtualenv -p /usr/bin/python2.7 venv2
-source /home/linux/Darbvirsma/Phtonsclonets/pysec2023/venv2/bin/activate
+s
 deactivate
 ```
 #3. pip avotu instalācija, pielikumu info sagatavošana 
